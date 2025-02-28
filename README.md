@@ -20,3 +20,5 @@ features:
 - view progress bar of completed goals.
 - toggle light/dark mode.
 - toasts upon successful action.
+
+![image](https://github.com/user-attachments/assets/48cb8468-778d-43e0-b6b3-4cef2ad9dc1d)
